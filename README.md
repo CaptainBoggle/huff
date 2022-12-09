@@ -1,5 +1,5 @@
 # huff
-A funny ghost client made by [captainboggle](https://github.com/CaptainBoggle/) and myself.
+A ghost client made by [captainboggle](https://github.com/CaptainBoggle/) and [larrabyte](https://github.com/larrabyte/).
 
 ## Prerequisites
 **Ensure that a Java 8 JDK is installed on your machine.** Forge versions below 1.13 do not support anything else.
