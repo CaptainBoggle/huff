@@ -20,6 +20,6 @@ In a shell environment or IDE, execute the `setupDecompWorkspace` gradlew task t
 
 :trollface: Antibot (meh)
 
-:trollface: Chat filter bypass (I suck his dick with a smile for hours at a time)
+:trollface: Chat filter bypass 
 
 :trollface: Best randomisation algorithm known to man
